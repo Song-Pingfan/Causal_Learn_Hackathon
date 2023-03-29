@@ -19,8 +19,12 @@ This [Jupyter notebook](https://colab.research.google.com/drive/1LL-gsrJ7fdx4Bos
 Helpful tools & resources
 Please feel free to explore these tools and resources. It is feasible to choose a method from these references to address the task. You may also consider further development upon the chosen method and apply it to the tasks. Alternatively, you may develop your own methods for the task.
 
-[Causal-learn documentation](https://causal-learn.readthedocs.io/en/latest/index.html)
-[Causal-learn and benchmarks](https://www.cmu.edu/dietrich/causality/causal-learn/)
-[Center for causal discovery](https://bd2kccd.github.io/docs/)
-[Center for causal discovery - Biomedical science](https://www.ccd.pitt.edu/biomedical-science/)
-[Causal discovery toolbox](https://github.com/FenTechSolutions/CausalDiscoveryToolbox)
+* [Causal-learn documentation](https://causal-learn.readthedocs.io/en/latest/index.html)
+
+* [Causal-learn and benchmarks](https://www.cmu.edu/dietrich/causality/causal-learn/)
+
+* [Center for causal discovery](https://bd2kccd.github.io/docs/)
+
+* [Center for causal discovery - Biomedical science](https://www.ccd.pitt.edu/biomedical-science/)
+
+* [Causal discovery toolbox](https://github.com/FenTechSolutions/CausalDiscoveryToolbox)
