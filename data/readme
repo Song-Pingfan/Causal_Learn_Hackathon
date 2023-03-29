@@ -1,1 +1,3 @@
+Data for Demo 1 which shows how to load simulated data and corresponding ground truth DAG, then run the greedy equivalence search (GES) algorithm to find the DAG from the data.
 
+Data for Demo 2 which shows how to load real cancer genome data, and then run the GES algorithm to find the DAG.
